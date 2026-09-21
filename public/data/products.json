@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cozy Blanket",
+      "price": 45.99,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=500&fit=crop",
+      "description": "Hand-crafted soft acrylic blanket perfect for cuddles. Handmade with love.",
+      "color": "Warm Gray"
+    },
+    {
+      "id": 2,
+      "name": "Baby Booties",
+      "price": 18.50,
+      "image": "https://images.unsplash.com/photo-1617344829803-a84b5fcbf30c?w=500&h=500&fit=crop",
+      "description": "Adorable handmade baby booties. Soft and comfortable for tiny feet.",
+      "color": "Pastel Pink"
+    },
+    {
+      "id": 3,
+      "name": "Winter Beanie",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1572931382181-e2a2ad7ce085?w=500&h=500&fit=crop",
+      "description": "Warm and stylish beanie perfect for cold winters. Unique patterns.",
+      "color": "Deep Blue"
+    },
+    {
+      "id": 4,
+      "name": "Decorative Cushion",
+      "price": 32.00,
+      "image": "https://images.unsplash.com/photo-1577808840597-0d5147fba144?w=500&h=500&fit=crop",
+      "description": "Beautiful decorative pillow to brighten any room. Premium yarn quality.",
+      "color": "Sunset Orange"
+    },
+    {
+      "id": 5,
+      "name": "Market Bag",
+      "price": 28.75,
+      "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&h=500&fit=crop",
+      "description": "Spacious eco-friendly tote bag. Perfect for shopping and everyday use.",
+      "color": "Natural Cream"
+    },
+    {
+      "id": 6,
+      "name": "Amigurumi Toy",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1657399657936-10c6e3b41db1?w=500&h=500&fit=crop",
+      "description": "Cute handmade stuffed animal. Perfect gift for kids and collectors.",
+      "color": "Rainbow"
+    }
+  ]
+}
