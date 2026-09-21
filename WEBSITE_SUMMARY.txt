@@ -54,7 +54,6 @@ Product Showcase
 
 Navigation & UX
 ├─ Sticky navigation bar with backdrop blur
-├─ Shopping cart counter
 ├─ Smooth scroll anchors
 ├─ Mobile-responsive hamburger-ready
 └─ Professional fonts (Playfair Display + Inter)
